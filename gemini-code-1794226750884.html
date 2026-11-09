@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cyber Matrix: Neon Memory</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="game-container">
+    <div class="hud">
+      <div>Moves: <span id="movesDisplay">0</span></div>
+      <div>Time: <span id="timerDisplay">0s</span></div>
+      <div>Best: <span id="bestDisplay">0</span></div>
+    </div>
+
+    <div class="grid-container" id="gridContainer"></div>
+
+    <div id="startScreen" class="overlay">
+      <h1>CYBER MATRIX</h1>
+      <p>Match all 8 neon code pairs in the fewest moves possible!</p>
+      <button class="btn" onclick="startGame()">Start Hack</button>
+    </div>
+
+    <div id="gameOverScreen" class="overlay hidden">
+      <h1>GRID OVERRIDDEN</h1>
+      <p id="overText">Completed!</p>
+      <button class="btn" onclick="startGame()">Reboot</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
