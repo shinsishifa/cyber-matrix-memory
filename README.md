@@ -8,7 +8,7 @@
 
 Click the button below to play the game directly in your browser:
 
-[![Visit Site](https://img.shields.io/badge/Click%20Here-Visit%20Live%20Site-cyan?style=for-the-badge&logo=rocket&logoColor=black)](https://shinsishifa.github.io/cyber-matrix-memory/)
+[![Visit Site](https://img.shields.io/badge/Click%20Here-Visit%20Live%20Site-cyan?style=for-the-badge&logo=rocket&logoColor=black)][https://shinsishifa.github.io/cyber-matrix-memory/]
 
 ---
 
