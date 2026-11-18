@@ -1,10 +1,18 @@
-# 🧩 Cyber Matrix: Neon Memory Match
+:# Cyber Matrix: Neon Memory Match
 
-**Cyber Matrix** is a cyberpunk-themed memory matching game built using standard HTML5, CSS3 3D transforms, and Vanilla JavaScript. Test your memory speed by matching pairs of neon icons in as few moves as possible.
+**Cyber Matrix** is a cyberpunk-themed memory matching game built using standard HTML5, CSS3 3D transforms, and vanilla JavaScript. Test your memory speed by matching pairs of neon icons in as few moves as possible.
 
 ---
 
-## 🌟 Key Features
+## 🚀 Live Demo
+
+Click the button below to play the game directly in your browser:
+
+[![Visit Site](https://img.shields.io/badge/Click%20Here-Visit%20Live%20Site-cyan?style=for-the-badge&logo=rocket&logoColor=black)](https://shinsishifa.github.io/cyber-matrix-memory/)
+
+---
+
+## ✨ Key Features
 
 * **Clean File Structure:** Organized into modular `index.html`, `style.css`, and `script.js` files.
 * **3D Card Flip Animations:** CSS `preserve-3d` and backface visibility transforms.
